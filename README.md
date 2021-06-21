@@ -1,4 +1,4 @@
-# Diary Bot
+# Google Calendar Bot
 
 Receive the day's appointments from google calendar
 
