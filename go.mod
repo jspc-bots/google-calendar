@@ -9,9 +9,8 @@ require (
 	github.com/lrstanley/girc v0.0.0-20210611213246-771323f1624b
 	github.com/mattn/go-runewidth v0.0.13 // indirect
 	github.com/olekukonko/tablewriter v0.0.5
-	golang.org/x/net v0.0.0-20210614182718-04defd469f4e // indirect
+	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20210615190721-d04028783cf1
-	golang.org/x/sys v0.0.0-20210616094352-59db8d763f22 // indirect
 	google.golang.org/api v0.48.0
 	google.golang.org/genproto v0.0.0-20210617175327-b9e0b3197ced // indirect
 )
